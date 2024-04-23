@@ -1,6 +1,6 @@
 # jellylinks
 ### Jellyfin hardlinks for subs and audio
-With ChatGPT and God help made this python script. It's very annoying Jellyfin "feature" not to allow use internal folder with subtitles and audio. So script just made hardlinks from internal folder to main video file. Veery helpful for anime and video with multiple audio tracks.
+With ChatGPT and God help made this python script. It's very annoying Jellyfin "feature" not to allow use internal folder with subtitles and audio. So script just make hardlinks from internal folder to main video file. Veery helpful for anime and video with multiple audio tracks.
 
 ### Usage
 Just run script and path like : `python3 jellylinks.py '/path/to/folder'` 
